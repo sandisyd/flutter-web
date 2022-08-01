@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494131482092",
+    "project_id": "flutter-belajar-web",
+    "storage_bucket": "flutter-belajar-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494131482092:android:bb43af20acc12a8161c4c9",
+        "android_client_info": {
+          "package_name": "com.example.web_flutter_coba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494131482092-ar7c1gv7q6qi1g1j6mti6modrhom9eoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.web_flutter_coba",
+            "certificate_hash": "9323c53f1cd083e2b999080296dcb36ec35de218"
+          }
+        },
+        {
+          "client_id": "494131482092-loa41i4eof3a3k2vcgupe85u56kuvtfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GQTVVh54IKFhd8ujjL64x1BSdevpebY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494131482092-loa41i4eof3a3k2vcgupe85u56kuvtfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
